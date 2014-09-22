@@ -23,7 +23,7 @@
         android:text="@string/rock_button"
 
         android:onClick="setRock"
-        android:src="@drawable/rock"
+        android:src="@drawable/rockv2"
 
 
         android:layout_gravity="center_vertical"
@@ -37,7 +37,7 @@
         android:layout_height="wrap_content"
         android:text="@string/paper_button"
 
-        android:src="@drawable/paper"
+        android:src="@drawable/paperv2"
 
         android:layout_gravity="center_vertical"
         android:layout_centerVertical="true"
@@ -49,7 +49,7 @@
         android:layout_height="wrap_content"
         android:text="@string/scissors_button"
 
-        android:src="@drawable/scissor"
+        android:src="@drawable/scissorv2"
 
         android:layout_gravity="center_vertical"
 
