@@ -11,14 +11,14 @@
     <TextView
         android:id="@+id/resultText"
         android:text="@string/please_select"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         />
 
 
     <ImageButton
         android:id="@+id/rock_button"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/rock_button"
 
@@ -33,7 +33,7 @@
 
     <ImageButton
         android:id="@+id/paper_button"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/paper_button"
 
@@ -45,7 +45,7 @@
 
     <ImageButton
         android:id="@+id/scissors_button"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/scissors_button"
 
